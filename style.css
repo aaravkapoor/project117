@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(29, 234, 234);
+}
+
+#score{
+    color: whitesmoke;
+    font-size: 30px;
+    float: left ;
+    margin-left: 40;
+}
+
+#timer{
+    color: whitesmoke;
+    font-size: 30px;
+    float: right ;
+    margin-right: 40;
+}
+
+#draw{
+    color: rgb(47, 0, 255);
+    font-size: 25px;
+}
